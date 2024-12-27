@@ -14,7 +14,9 @@
 #### Utvalda för denna veckan:
 * [JavaScript Fundamentals](https://app.pluralsight.com/library/courses/fundamentals-javascript/table-of-contents)
 #### Läsning
-*
+* [Varför lära sig JS?](https://www.simplilearn.com/reasons-to-learn-javascript-article)
+* [Introduktion till JS](https://javascript.info/intro)
+* [W3 JS Syllabus](https://www.w3schools.com/Js/js_syllabus.asp)
 
 ## Youtube
 * 
