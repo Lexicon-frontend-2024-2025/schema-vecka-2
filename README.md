@@ -12,7 +12,7 @@
 ## Material
 #### E-Learning:
 #### Utvalda för denna veckan:
-* 
+* [JavaScript Fundamentals](https://app.pluralsight.com/library/courses/fundamentals-javascript/table-of-contents)
 #### Läsning
 * [Introduktion](https://docs.google.com/presentation/d/13CtjmEz_yLvmpvim6IAzquIqzJ87Wpfu4pNUo0jFcSc/edit#slide=id.gf97ac877ef_0_67)
 * [JS ES6](https://docs.google.com/presentation/d/1om0xpdCwdhISmljJbGc0RxFfeGwxEGqj/edit#slide=id.p25)
