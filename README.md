@@ -25,7 +25,8 @@
 * [Datalogiskt tänkande](https://github.com/Lexicon-frontend-2024-2025/exercise-computational-thinking-games)
 * [Objekt](https://github.com/Lexicon-frontend-2024-2025/exercise-js-objects-bootcamp)
 * [Listor](https://github.com/Lexicon-frontend-2024-2025/exercise-array-bootcamp)
-* []
+* [Loopar](https://github.com/Lexicon-frontend-2024-2025/ovningar-loops-bootcamp)
+* [Funktioner](https://github.com/Lexicon-frontend-2024-2025/exercise-functions-bootcamp)
 
 ## Slides
 * [Introduktion](https://docs.google.com/presentation/d/13CtjmEz_yLvmpvim6IAzquIqzJ87Wpfu4pNUo0jFcSc/edit#slide=id.gf97ac877ef_0_67)
