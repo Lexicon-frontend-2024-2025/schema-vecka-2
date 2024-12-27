@@ -12,7 +12,7 @@
 ## Material
 #### E-Learning:
 #### Utvalda för denna veckan:
-* [JavaScript Fundamentals](https://app.pluralsight.com/library/courses/fundamentals-javascript/table-of-contents)
+* [JavaScript Fundamentals, fram till och med Functions-delen](https://app.pluralsight.com/library/courses/fundamentals-javascript/table-of-contents)
 #### Läsning
 * [Varför lära sig JS?](https://www.simplilearn.com/reasons-to-learn-javascript-article)
 * [Introduktion till JS](https://javascript.info/intro)
