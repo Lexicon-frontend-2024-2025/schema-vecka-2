@@ -39,4 +39,4 @@
 * **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektion-7-jan)** - Introduktion till Javascript och datalogiskt tänkande. Dev tools i Chrome.
 * **[Onsdag](https://github.com/Lexicon-frontend-2024-2025/lektion-8-jan)** - Datatyper, variabler, aritmetiska och tilldelningsoperatorer.
 * **[Torsdag](https://github.com/Robert-Lexicon/lektion-9-jan)** - if-satser, loopar
-* **[Fredag]** - Funktioner, mer om kodblock och scope
+* **[Fredag](https://github.com/Lexicon-frontend-2024-2025/lektion-10-jan.git)** - Funktioner, mer om kodblock och scope
