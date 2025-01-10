@@ -17,6 +17,7 @@
 * [Varför lära sig JS?](https://www.simplilearn.com/reasons-to-learn-javascript-article)
 * [Introduktion till JS](https://javascript.info/intro)
 * [W3 JS Syllabus](https://www.w3schools.com/Js/js_syllabus.asp)
+* [Arrow functions](https://javascript.info/arrow-functions-basics)
 
 ## Youtube
 * 
